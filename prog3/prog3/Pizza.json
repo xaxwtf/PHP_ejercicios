@@ -1,0 +1,8 @@
+[ 
+{"id":1,"sabor":"pi\u00f1a","precio":700,"tipo":"a la piedra","cantidad":115},
+{"id":2,"sabor":"MUZZARELLA","precio":1000,"tipo":"a la piedra","cantidad":20},
+{"id":3,"sabor":"NAPOLITANA","precio":1200,"tipo":"a la piedra","cantidad":40},
+{"id":4,"sabor":"JAMON Y QUESO","precio":1550,"tipo":"a la piedra","cantidad":90},
+{"id":5,"sabor":"Fugazzeta","precio":1600,"tipo":"a la piedra","cantidad":15},
+{"id":6,"sabor":"asdsadsa","precio":1600,"tipo":"a la piedra","cantidad":15}
+]
